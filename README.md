@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fashae Hezekiah</h1>
-<h3 align="center">A versatile Computer Science student passionate about programming with a strong love for Python and its ecosystem</h3>
+
 
 - 🌱 I’m currently learning **Python, Django-REST APIs, ReactJS.**
 
