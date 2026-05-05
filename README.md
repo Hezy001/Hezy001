@@ -105,7 +105,7 @@ A polished Connect Four game built from scratch with three distinct modes: local
 
 ---
 
-### Meeting Notes Taker — Live Meeting Capture with Smart Categorization                   https://github.com/Hezy001/meeting-tracker
+### Meeting Notes Taker — Live Meeting Capture with Smart Categorization           https://meeting-tracker-rho.vercel.app/
 
 A modern meeting notes app that captures timestamped notes in real time and auto-generates a structured recap, separating action items from general notes. Distinctive dark UI with neon-lime accent, animated ambient blobs, and a phase-based flow — splash → setup → live → recap.
 
