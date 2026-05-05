@@ -135,7 +135,7 @@ A modern meeting notes app that captures timestamped notes in real time and auto
 
 ---
 
-## GitHub Stats
+
 
 <div align="center">
 
