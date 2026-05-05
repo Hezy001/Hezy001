@@ -2,7 +2,7 @@
 
 # Hezekiah Fashae
 
-**Frontend Developer | Software Developer
+Frontend Developer | Software Developer
 
 
 
