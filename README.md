@@ -17,10 +17,17 @@ I build fast, responsive, and intuitive web applications. Currently deepening my
 
 ## About Me
 
--I build clean and responsive user interfaces with React, Next.js, and Tailwind.
--Big on good design, smooth user experience, and making things actually work.
--Currently leveling up my JavaScript by building real projects.
+I build clean, responsive user interfaces using **React, Next.js, and Tailwind CSS**.
+
 ---
+
+**Focus**
+- Clean, maintainable UI
+- Smooth, intuitive UX
+- Real-world, working products
+
+---
+
 
 ## Tech Stack
 
