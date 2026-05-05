@@ -30,6 +30,7 @@ I build fast, responsive, and intuitive web applications. Currently deepening my
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -50,7 +51,35 @@ I build fast, responsive, and intuitive web applications. Currently deepening my
 
 ## Featured Projects
 
-### 🔗 [Project Name](https://github.com/Hezy001/project-repo)
+### QuoteForge — AI-Powered Quote Generator
+
+A full-featured quote discovery app with real-time API integration, user authentication, and an interactive UI. Pulls quotes dynamically from an external API, lets users save favorites, share to social media, and browse by category.
+
+**Key Features:**
+- User authentication (sign up, sign in, password reset, Google OAuth simulation)
+- Real-time quote fetching from DummyJSON Quotes API with category filtering
+- Next.js API route as a proxy layer with graceful fallback handling
+- Save to favorites (localStorage persistence)
+- Share to X (Twitter) and LinkedIn
+- Copy to clipboard
+- Dark / Light theme toggle
+- Focus mode for distraction-free reading
+- Keyboard shortcuts (Space, S, C, F, H, Esc)
+- Quote history sidebar
+- Activity stats tracking
+
+**Tech:** Next.js, React, TypeScript, Tailwind CSS, DummyJSON API, Next.js App Router, API Routes
+
+![QuoteForge Screenshot 1](https://raw.githubusercontent.com/Hezy001/quoteForge/main/sc%20(1).png)
+![QuoteForge Screenshot 2](https://raw.githubusercontent.com/Hezy001/quoteForge/main/sc%20(2).png)
+![QuoteForge Screenshot 3](https://raw.githubusercontent.com/Hezy001/quoteForge/main/sc%20(3).png)
+![QuoteForge Screenshot 4](https://raw.githubusercontent.com/Hezy001/quoteForge/main/sc%20(4).png)
+![QuoteForge Screenshot 5](https://raw.githubusercontent.com/Hezy001/quoteForge/main/sc%20(5).png)
+![QuoteForge Screenshot 6](https://raw.githubusercontent.com/Hezy001/quoteForge/main/sc%20(6).png)
+
+---
+
+### [Project Name](https://github.com/Hezy001/project-repo)
 > Short description of what the project does and the problem it solves.
 
 **Tech:** React, Next.js, Tailwind CSS
@@ -59,19 +88,10 @@ I build fast, responsive, and intuitive web applications. Currently deepening my
 
 ---
 
-### 🔗 [Project Name](https://github.com/Hezy001/project-repo)
+### [Project Name](https://github.com/Hezy001/project-repo)
 > Short description of what the project does and the problem it solves.
 
 **Tech:** React, JavaScript, CSS
-
-![Project Screenshot](https://via.placeholder.com/800x400?text=Screenshot+Coming+Soon)
-
----
-
-### 🔗 [Project Name](https://github.com/Hezy001/project-repo)
-> Short description of what the project does and the problem it solves.
-
-**Tech:** Python, Next.js
 
 ![Project Screenshot](https://via.placeholder.com/800x400?text=Screenshot+Coming+Soon)
 
