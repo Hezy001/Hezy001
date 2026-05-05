@@ -1,8 +1,8 @@
 <div align="center">
 
-# Fashae Hezekiah
+# Hezekiah Fashae 
 
-**Frontend Developer | Building for the Web**
+**WEB DEVELOPER 
 
 I build fast, responsive, and intuitive web applications. Currently deepening my frontend expertise with React and Next.js while exploring backend development with Python.
 
