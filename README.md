@@ -79,12 +79,30 @@ A full-featured quote discovery app with real-time API integration, user authent
 
 ---
 
-### [Project Name](https://github.com/Hezy001/project-repo)
-> Short description of what the project does and the problem it solves.
+### Four in a Row — Real-time Connect Four with AI Opponent                   https://github.com/Hezy001/four-in-a-row
 
-**Tech:** React, Next.js, Tailwind CSS
+A polished Connect Four game built from scratch with three distinct modes: local pass-and-play, vs computer with three AI difficulty levels, and real-time online multiplayer with shareable room codes. Hand-crafted UI, custom minimax AI, server-authoritative networking — no UI kits, no shortcuts.
 
-![Project Screenshot](https://via.placeholder.com/800x400?text=Screenshot+Coming+Soon)
+**Key Features:**
+- Three game modes — Local, Vs Computer, and Online multiplayer
+- AI opponent with three difficulties — Easy (random), Medium (depth-4 minimax), Hard (depth-7 alpha-beta pruning)
+- Real-time online multiplayer over Socket.io with 4-character room codes
+- Server-authoritative move validation — clients can't cheat
+- Graceful disconnect handling with rematch flow (both players must accept)
+- Score tracking across rounds (wins per player, ties)
+- Hand-crafted UI with CSS Modules — no Tailwind, no UI kit
+- Smooth physical disc-drop animations, pulsing winning cells, hover previews
+- Mobile-first responsive layout with 44px+ tap targets
+- `useReducer` game state — no external state library
+- Centralized Socket.io logic in a single React hook
+- Copy-to-clipboard room codes, animated waiting screen, slide-up status banners
+
+**Tech:** React 18, Vite, Socket.io (client + server), Node.js, Express, CSS Modules, JavaScript (ES2020+)
+
+![Four in a Row Screenshot 1](https://raw.githubusercontent.com/Hezy001/four-in-a-row/main/Screenshot%20(5).png)
+![Four in a Row Screenshot 2](https://raw.githubusercontent.com/Hezy001/four-in-a-row/main/Screenshot%20(6).png)
+![Four in a Row Screenshot 3](https://raw.githubusercontent.com/Hezy001/four-in-a-row/main/Screenshot%20(8).png)
+![Four in a Row Screenshot 4](https://raw.githubusercontent.com/Hezy001/four-in-a-row/main/Screenshot%20(9).png)
 
 ---
 
