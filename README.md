@@ -2,9 +2,9 @@
 
 # Hezekiah Fashae
 
-**Frontend Developer | Building for the Web**
+**Frontend Developer | Software Developer
 
-I build fast, responsive, and intuitive web applications. Currently deepening my frontend expertise with React, Next.js and Tailwind CSS .
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hezykiah)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/hezykiah001)
