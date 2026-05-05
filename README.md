@@ -51,7 +51,7 @@ I build fast, responsive, and intuitive web applications. Currently deepening my
 
 ## Featured Projects
 
-### QuoteForge — AI-Powered Quote Generator
+### QuoteForge — AI-Powered Quote Generator                   https://quote-forge-smoky.vercel.app/
 
 A full-featured quote discovery app with real-time API integration, user authentication, and an interactive UI. Pulls quotes dynamically from an external API, lets users save favorites, share to social media, and browse by category.
 
