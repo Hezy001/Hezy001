@@ -79,8 +79,7 @@ A full-featured quote discovery app with real-time API integration, user authent
 
 ---
 
-### Four in a Row — Real-time Connect Four with AI Opponent                   https://github.com/Hezy001/four-in-a-row
-
+### Four in a Row — Real-time Connect Four with AI Opponent                   https://four-in-a-row-eight.vercel.app/
 A polished Connect Four game built from scratch with three distinct modes: local pass-and-play, vs computer with three AI difficulty levels, and real-time online multiplayer with shareable room codes. Hand-crafted UI, custom minimax AI, server-authoritative networking — no UI kits, no shortcuts.
 
 **Key Features:**
