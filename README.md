@@ -105,12 +105,33 @@ A polished Connect Four game built from scratch with three distinct modes: local
 
 ---
 
-### [Project Name](https://github.com/Hezy001/project-repo)
-> Short description of what the project does and the problem it solves.
+### Meeting Notes Taker — Live Meeting Capture with Smart Categorization                   https://github.com/Hezy001/meeting-tracker
 
-**Tech:** React, JavaScript, CSS
+A modern meeting notes app that captures timestamped notes in real time and auto-generates a structured recap, separating action items from general notes. Distinctive dark UI with neon-lime accent, animated ambient blobs, and a phase-based flow — splash → setup → live → recap.
 
-![Project Screenshot](https://via.placeholder.com/800x400?text=Screenshot+Coming+Soon)
+**Key Features:**
+- Animated splash screen with keyboard shortcuts (Enter / Space to advance)
+- Pre-meeting setup — name the meeting and add attendees as chips
+- Live elapsed-time counter (HH:MM:SS), updated every second
+- Quick-tag chips — TODO, Action, Decision, Question, Follow up — one click prefixes the input
+- Real-time timestamped notes with auto-scroll to the latest entry
+- Edit / delete notes during the meeting on hover
+- Smart categorization — notes containing `todo`, `action`, `follow up`, `assign`, or `deadline` are extracted as Action Items; the rest go into Summary
+- Editable meeting title in the recap view
+- Recap stats — start, end, duration, total words
+- Copy summary to clipboard, or download as `.md` / `.txt`
+- Distinctive dark UI with neon-lime accent, animated ambient blobs, subtle grid overlay, custom scrollbar
+- Fully local — no backend, no tracking, no accounts
+
+**Tech:** React 19, TypeScript, Vite, Tailwind CSS v4
+
+![Meeting Tracker Screenshot 1](https://raw.githubusercontent.com/Hezy001/meeting-tracker/main/Screenshot%20(10).png)
+![Meeting Tracker Screenshot 2](https://raw.githubusercontent.com/Hezy001/meeting-tracker/main/Screenshot%20(11).png)
+![Meeting Tracker Screenshot 3](https://raw.githubusercontent.com/Hezy001/meeting-tracker/main/Screenshot%20(12).png)
+![Meeting Tracker Screenshot 4](https://raw.githubusercontent.com/Hezy001/meeting-tracker/main/Screenshot%20(13).png)
+![Meeting Tracker Screenshot 5](https://raw.githubusercontent.com/Hezy001/meeting-tracker/main/Screenshot%20(14).png)
+![Meeting Tracker Screenshot 6](https://raw.githubusercontent.com/Hezy001/meeting-tracker/main/Screenshot%20(15).png)
+![Meeting Tracker Screenshot 7](https://raw.githubusercontent.com/Hezy001/meeting-tracker/main/Screenshot%20(16).png)
 
 ---
 
